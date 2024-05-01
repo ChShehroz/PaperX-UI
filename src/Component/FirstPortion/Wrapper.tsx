@@ -32,7 +32,7 @@ const Wrapper = () => {
             align="center"
             height={["270px", "0", "0", "100px"]}
           >
-            Shehroz 2
+            Paper Kit 2
           </Text>
           <Text
             display="inline-block"
